@@ -1,0 +1,32 @@
+IPStart,IPEnd,Country,Publish_Date,Comment
+0.0.0.0,0.255.255.255,US,01/02/09,long line aching
+1.0.0.0,1.0.0.255,AU,02/03/09,checkout is slow
+1.0.1.0,1.0.3.255,CN,02/03/09,in the east were ok
+1.0.4.0,1.0.7.255,AU,05/03/08,im pretty pissed
+1.0.8.0,1.0.15.255,CN,06/03/09,how i crave
+1.0.16.0,1.0.31.255,JP,07/03/09, crave love to not going there anymore
+1.0.32.0,1.0.63.255,CN,08/03/09,I am disappoint
+1.0.64.0,1.0.127.255,JP,09/04/09,are a must buy long line
+1.0.128.0,1.0.255.255,TH,10/04/09,aching
+1.1.0.0,1.1.0.255,CN,11/04/09,confused my name
+1.1.1.0,1.1.1.255,AU,12/04/09,admire
+1.1.2.0,1.1.63.255,CN,13/04/09,love to how i crave hated the product
+1.1.64.0,1.1.127.255,JP,14/04/09,hated the product
+1.1.128.0,1.1.255.255,TH,15/04/09,compared prices
+1.2.0.0,1.2.2.255,CN,16/04/09,hated the product
+1.2.3.0,1.2.3.255,AU,17/04/09,buy local
+1.2.4.0,1.2.127.255,CN,18/04/09,not going there anymore
+1.2.128.0,1.2.255.255,TH,19/04/09,were ok
+1.3.0.0,1.3.255.255,CN,20/04/09,love to how i crave
+1.4.0.0,1.4.0.255,AU,21/04/09,not going there anymore
+1.4.1.0,1.4.127.255,CN,22/04/09,admire
+1.4.128.0,1.4.255.255,TH,23/04/09,not going there anymore
+1.5.0.0,1.5.255.255,JP,24/04/09,hated the product
+1.6.0.0,1.7.255.255,IN,25/04/09,compared prices
+1.8.0.0,1.8.255.255,CN,26/04/09,were ok
+1.9.0.0,1.9.255.255,MY,27/04/09,buy local
+1.10.0.0,1.10.9.255,CN,28/04/09,not going there anymore
+1.10.10.0,1.10.10.255,AU,29/04/09,can rely on this
+1.10.11.0,1.10.127.255,CN,30/04/09,hated the product
+1.10.128.0,1.10.255.255,TH,01/05/09,confused my name
+1.11.0.0,1.11.255.255,KR,02/05/09,aching not going there anymore
